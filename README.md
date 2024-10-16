@@ -15,7 +15,7 @@ In Japanese, "Kimi No Location" means **"Your Location"**. This platform allows 
 
 ## Tech Stack
 
-Kimi No Location is powered by the following technologies:
+"Kimi No Location" is powered by the following technologies:
 
 - **Frontend:** 
   - [Vue.js](https://vuejs.org/) (latest)
@@ -34,8 +34,7 @@ Kimi No Location is powered by the following technologies:
   - [Axios](https://axios-http.com/) `^1.7.7` for HTTP requests
   - [VueUse](https://vueuse.org/) `^11.1.0` for Vue composables
   - [Tailwind Merge](https://github.com/dcastil/tailwind-merge) `^2.5.4` for merging Tailwind CSS classes
-  - [TailwindCSS Animate](https://tailwindcss-animate.vercel.app/) `^1.0.7` for animations
-  -  [ShadCN Nuxt](https://github.com/shadcn/shadcn-nuxt) `^0.10.4` for utility-based component styling
+  -  [ShadCN Vue](https://www.shadcn-vue.com) `^0.10.4` for utility-based component styling
 
 
 ## Installation
